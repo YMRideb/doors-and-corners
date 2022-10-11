@@ -36,9 +36,9 @@ the controllers are referenced in the routes
 
 17. Enable CORS-> in server.js Import it and then insert the app.use(cors()) command
 
-18. Create a react app inside the project folder-> name it “client”
+18. Create a react app inside the project folder-> name it “client” --> inside the project folder ```npx create-react-app client```
 
-19 Install dependecies for react-> cd into folder and run "npm install axios react-router-dom"
+19 Install dependecies for react-> cd into folder and run ```npm install axios react-router-dom```
 
 20. Build out the front end!
 
